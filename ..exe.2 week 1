@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head> 
+ <title>Portfolio</title>
+  </head>
+  <body>
+       <nav>
+       <li><a href="#Introduction">Introduction</a></li>
+       <li><a href="#Education">Education</a></li>
+       <li><a href="#Hobbies">Hobbies</a></li>
+       <li><a href="#Contact">Contact</a></li>
+       </nav>
+       <div id="Introduction">
+       <h1>Kulbhushan basnet</h1>
+       <img src=""alt="">
+       <p>Bonjour,My name is Kulbhushan Basnet from Kuleshwor,Kathmandu.Currently iam a student in Herald college kathmandu studying bachelor in Information and technology.</p>
+    </div>
+    <div id="Education">
+     <h2>Education</h2>
+       <table border="1" cellspacing="2">
+        <tr>
+        <th>Year</th>
+        <th>Institute</th>
+        </tr>
+        <tr>
+            <td>2007-2010</td>
+            <td>Paramount School</td>
+        </tr>
+       
+        <tr>
+            <td>2011-2018</td>
+            <td>Nepal Armend Police Force School</td>
+        </tr>
+        <tr>
+            <td>2019-2021</td>
+            <td>Uniglobe college</td>
+        </tr>
+    </table>
+     </div>
+       <Div id="Hobbies">
+         <h2>Hobbies</h2>
+        <ul>
+            <LI>Playing football</LI>
+            <li>Trekking</li>
+            <li>Something related to adventure</li>
+        </ul>
+       </Div>
+       <div id="Contact">
+        <h2>Contact</h2>
+       <label>Name:</label>
+       <input name="text"><Br>
+        <label>Email:</label>
+        <input name="text"><br>
+        <label>Message:</label>
+        <textarea> </textarea> <br>
+     </div>
+     <footer>
+        <P> 
+       
+        Contact me here <a href=""></a></P>
+        Copy right 2020 
+    </footer>
+     </body>
+     </html>
